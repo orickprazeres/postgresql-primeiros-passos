@@ -8,13 +8,10 @@ Como definir um alias para os nomes dos campos.
 
 A filtrar registros, utilizando o WHERE para campos do tipo de texto.
 
-Operadores =, !=,<>, LIKE e NOT LIKE.
-
-A diferença entre = e LIKE.
-
-O funcionamento do caractere % no filtro com LIKE e NOT LIKE.
-
-O funcionamento do caractere _ no filtro com LIKE e NOT LIKE.
+  - Operadores =, !=,<>, LIKE e NOT LIKE.
+  - A diferença entre = e LIKE.
+  - O funcionamento do caractere % no filtro com LIKE e NOT LIKE.
+  - O funcionamento do caractere _ no filtro com LIKE e NOT LIKE.
 
 Como filtrar utilizando IS NULL e IS NOT NULL.
 
