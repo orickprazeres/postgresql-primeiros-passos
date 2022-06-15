@@ -15,9 +15,9 @@ A filtrar registros, utilizando o WHERE para campos do tipo de texto.
 
 Como filtrar utilizando IS NULL e IS NOT NULL.
 
-Como filtrar registros para campos do tipos relacionados a números, datas e horas [ =, !=, <>, <, <=, >, >= ]
-
-BETWEEN
+Como filtrar registros para campos do tipos relacionados a números, datas e horas 
+- =, !=, <>, <, <=, >, >=
+- BETWEEN
 
 Como filtrar registros para campos do tipo booleano [ =, !=, <> ]
 
