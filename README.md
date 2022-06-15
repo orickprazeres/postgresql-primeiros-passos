@@ -1,4 +1,4 @@
-# Pstgresql-Primeiros-Passos
+# Postgresql-Primeiros-Passos
 
 ## INTRODUÇÃO
 
