@@ -2,7 +2,7 @@
 
 ## Nesta aula, aprendemos:
 
--- Como instalar o PostgreSQL e o pgAdmin
+Como instalar o PostgreSQL e o pgAdmin
 Como conectar ao PostgreSQL, utilizando o terminal e o pgAdmin
 A criar o banco de dados pelo terminal e pelo pgAdmin
 Como apagar o banco de dados pelo terminal e pelo pgAdmin
