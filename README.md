@@ -1,6 +1,6 @@
 # Postgresql-Primeiros-Passos
 
-## INTRODUÇÃO
+##
 
 Como instalar o PostgreSQL e o pgAdmin
 Como conectar ao PostgreSQL, utilizando o terminal e o pgAdmin
