@@ -1,6 +1,6 @@
 # postgresql-primeiros-passos
 
-## Nesta aula, aprendemos:
+## Nesta aula 02, aprendemos:
 
 A selecionar campos específicos da tabela.
 
