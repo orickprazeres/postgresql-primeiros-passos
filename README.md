@@ -1,6 +1,6 @@
 # Postgresql-Primeiros-Passos
 
-## Nesta aula, aprendemos:
+## Nesta aula 01, aprendemos:
 
 Como instalar o PostgreSQL e o pgAdmin
 
