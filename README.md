@@ -1,6 +1,6 @@
 # postgresql-primeiros-passos
 
-## Nesta aula, aprendemos:
+## Nesta aula 05, aprendemos:
 
 Como funciona a chave primária
 
