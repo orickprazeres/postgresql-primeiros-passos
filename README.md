@@ -1,6 +1,6 @@
 # postgresql-primeiros-passos
 
-## Nesta aula, aprendemos:
+## Nesta aula 02, aprendemos:
 
 Como incluir um registro na tabela, entendendo a sintaxe de inclusão de cada tipo de campo
 
